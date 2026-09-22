@@ -1,6 +1,8 @@
 # Panel de hábitos del día — Laboratorio Semana 7
 
 **Estudiante:** Ernesto Ortiz
+
+
 **Tecnología:** Flutter 3.38 / Dart — solo `StatefulWidget` + `setState()` (sin paquetes de estado)
 
 ## Descripción
@@ -49,7 +51,6 @@ nota del día y reiniciar el día.
 ## Cómo ejecutar
 
 ```bash
-flutter pub get
 flutter run -d windows   # o: flutter run -d chrome
 ```
 
