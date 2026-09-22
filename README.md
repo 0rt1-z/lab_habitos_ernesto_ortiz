@@ -1,6 +1,8 @@
 # Panel de hábitos del día — Laboratorio Semana 7
 
-**Estudiante:** Ernesto Ortiz
+**Estudiante:** Edwin Ernesto Ortiz Ascencio
+
+**Carnet:** 2950762022
 
 
 **Tecnología:** Flutter 3.38 / Dart — solo `StatefulWidget` + `setState()` (sin paquetes de estado)
